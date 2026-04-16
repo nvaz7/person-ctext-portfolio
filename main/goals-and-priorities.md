@@ -2,9 +2,9 @@
 
 ## Objetivos de Curto Prazo (este trimestre)
 
+- Preparar melhor as reuniões semanais com os Diretores de modo a ter uma participação mais ativa e assertiva nas reuniões e para ganhar visibilidade.
 - Dominar os projetos em curso nos dois eixos: negócio e arquitetura técnica de IA — conseguir responder a qualquer pergunta sem hesitação.
 - Ser capaz de aconselhar as Squads sobre estratégias de IA.
-- Ter uma participação mais ativa nas reuniões com os Diretores da DSI para ganhar visibilidade.
 
 ## Objetivos de Conhecimento
 
