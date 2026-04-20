@@ -14,6 +14,20 @@
 
 - Telecomunicações: indústria muito regulamentada, com múltiplas unidades de negócio para além das telecomunicações core. Contexto ainda em fase de aprendizagem.
 
+## Competências-Chave e Proficiência
+
+- Competências esperadas e avaliadas pela empresa no contexto das minhas funções de Technical Project Manager.
+| Competência | Proficiência |
+|---|---|
+| Gestão de Projeto | Avançado |
+| Comunicação eficaz | Avançado |
+| Gestão de conflitos | Avançado |
+| Análise Funcional | Intermédio |
+| Inglês | Intermédio |
+| Gestão de riscos de cibersegurança | Intermédio |
+| Manutenção e Monitorização de Redes e Infraestruturas | Intermédio |
+| Administração de Sistemas | Inicial |
+  
 ## Frameworks e Modelos Mentais
 
 - **Atomic Habits** (James Clear) — metodologia de referência para formação de hábitos
