@@ -29,7 +29,6 @@
 |---|---|---|
 | Portátil trabalho | Windows 11 | Sem direitos de admin — instalação de software limitada |
 | Portátil pessoal | Ubuntu 24 | Uso pessoal |
-| Mini PC HP ProDesk 400 G9 | Ubuntu 24 (sem GUI) | Home lab — acesso remoto via SSH; i5-12500T, 32GB RAM, 256GB NVMe |
 | VPS | — | n8n instalado |
 
 ## Preferências de Output para IA
