@@ -16,7 +16,7 @@
 
 ## Competências-Chave e Proficiência
 
-- Competências esperadas e avaliadas pela empresa no contexto das minhas funções de Technical Project Manager.
+- Competências esperadas (não significa o meu nível atual de proficiência) e avaliadas pela empresa no contexto das minhas funções de Technical Project Manager.
   
 | Competência | Proficiência |
 |---|---|
