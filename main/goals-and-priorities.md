@@ -32,3 +32,11 @@ Nada deliberadamente em pausa neste momento.
 ## Como é o sucesso daqui a 6 meses
 
 Operar de forma autónoma, sem precisar de guidance constante da InêsP — e que ela me comece a pedir opinião sobre projetos e novas estratégias de IA.
+
+## Competências a Desenvolver (Framework Beyond Senior)
+
+Com base no modelo *3 Critical Skills to Grow Beyond Senior Level*:
+
+- **Multiplicar o impacto** — reduzir dependência de contribuição individual e aumentar o que consigo enabler nas Squads e nos Arquitetos; mentoring, delegação e influência sem autoridade formal.
+- **Navegar a ambiguidade** — desenvolver conforto em avançar com informação incompleta; identificar os problemas certos antes de os resolver.
+- **Influenciar sem autoridade** — construir credibilidade e relações transversais na DSI para conseguir alinhar pessoas e decisões além do meu scope direto.
