@@ -33,6 +33,7 @@
 
 - **Atomic Habits** (James Clear) — metodologia de referência para formação de hábitos
 - **"Pensar no papel"** — preferência por externalizar o pensamento por escrito antes de decidir ou agir
+- **Beyond Senior Framework** *(3 Critical Skills to Grow Beyond Senior Level)* — modelo de referência para pensar a progressão de carreira: multiplicar impacto através de outros, navegar ambiguidade sem paralisar, e influenciar sem depender de autoridade formal.
 
 ## Áreas onde prefiro mais explicação
 
