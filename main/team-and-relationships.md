@@ -40,7 +40,7 @@
 ---
 
 ### PedroB — Responsável máximo pelo Programa Escala
-**Relação:** Sem relevância operacional de momento.
+**Relação:** Interlocutor-chave para temas de âmbito e priorização. Deve estar a par dos alertas de risco técnico e dependências. A quem os Coordenadores de AI & Insight reportam diretamente, como por exemplo a FranciscaP.
 
 ---
 
@@ -52,8 +52,8 @@
 
 ---
 
-### FranciscaP — Coordenadora (todos os projetos)
-**Relação:** Presente em todos os projetos ativos, mas a interação do dia-a-dia é menos frequente do que com os POs.
+### FranciscaP — Coordenadora (alguns os projetos)
+**Relação:** Presente em todos os projetos ativos, mas a interação do dia-a-dia é menos frequente do que com os POs. É quem prioriza os Use Cases juntamente com o PedroB.
 
 ---
 
@@ -63,7 +63,7 @@
 - **InesSS** — PO do TDS Alarmes
 - **FilipaM** — PO do Fieldbot
 
-**Relação:** São os interlocutores principais no contexto de cada projeto — interação mais frequente do que com a coordenação. Tom informal, próximo, boa disposição.
+**Relação:** São os interlocutores principais no contexto de cada projeto — interação mais frequente do que com a coordenação. Tom informal, próximo, boa disposição. São quem juntamente com os Coordenadores priorizam os Use Cases/projetos e as respetivas tarefas.
 
 ---
 
@@ -80,3 +80,9 @@
 
 ### MiguelG — Tech Project Manager (colega)
 **Relação:** Junior. Reporta a InêsP. Tom informal, próximo, boa disposição.
+
+---
+
+### MariaC — Privacy Champion da DSI
+**Relação:** Com quem costuma falar sobre os temas de Compliance e Privacidade. Tom informal, próximo, boa disposição.
+
