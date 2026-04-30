@@ -22,7 +22,6 @@ Existem outras plataformas internas da XPTO em uso, não detalhadas aqui.
 
 ## Ferramentas em avaliação
 
-Nenhuma de momento.
 - Instalei o Hermes no meu Mac Mini e configurei o Telegram. Estou a testar vários LLM's localmente para ver qual o tem melhor desempenho.
   
 ## Home Lab
