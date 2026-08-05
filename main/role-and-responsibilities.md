@@ -26,6 +26,7 @@
 
 - Validar que os objetivos de cada fase estão claros para todos os intervenientes
 - Garantir foco no âmbito — evitar dispersão e rework
+- Decisão 1.
 
 ## Outputs
 
